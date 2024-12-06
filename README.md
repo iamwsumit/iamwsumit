@@ -9,8 +9,10 @@ Visit my website at https://sumitkmr.com
 
 ### My Apps
 
-[![{9DCF3AA8-A4AB-4E36-89F7-537EA38C8779}-modified](https://github.com/user-attachments/assets/662029d2-2f13-4f74-9f99-ada0728f4578)](https://play.google.com/store/apps/details?id=com.sumit.onesignalpush)
-[![{FA26F4E1-A5CD-44DA-ADF7-1C45484B9E97}-modified](https://github.com/user-attachments/assets/c2228968-06eb-4215-9ec0-4a578268294d)](https://play.google.com/store/apps/details?id=com.sumit.store)
+
+[<img src="https://github.com/user-attachments/assets/662029d2-2f13-4f74-9f99-ada0728f4578" alt="drawing" width="300"/>](https://play.google.com/store/apps/details?id=com.sumit.onesignalpush)
+[<img src="https://github.com/user-attachments/assets/c2228968-06eb-4215-9ec0-4a578268294d" alt="drawing" width="300"/>](https://play.google.com/store/apps/details?id=com.sumit.store)
+[<img src="https://github.com/user-attachments/assets/17879b1e-1e0d-4467-a2c5-a121dfe7d7e4" alt="drawing" width="300"/>](https://play.google.com/store/apps/details?id=com.sumit.markscalculator)
 
 
 ### Contact
